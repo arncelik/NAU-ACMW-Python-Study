@@ -6,6 +6,13 @@ Read two integers from STDIN and print three lines where:
 * The second line contains the difference of the two numbers (first - second).
 * The third line contains the product of the two numbers.
 https://www.hackerrank.com/challenges/python-arithmetic-operators
+
+Sample Solution with format() method:
+
+a = int(input())
+b = int(input())
+print('{0} \n{1} \n{2}'.format((a+b), (a-b), (a*b)))
+
 '''
 
 #dani
