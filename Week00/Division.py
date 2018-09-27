@@ -6,3 +6,8 @@ You don't need to perform any rounding or formatting operations.
 
 source: https://www.hackerrank.com/challenges/python-division
 '''
+#dani
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print(a//b, a/b, sep="\n")
