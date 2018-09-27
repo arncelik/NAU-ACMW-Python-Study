@@ -7,3 +7,9 @@ Read two integers from STDIN and print three lines where:
 * The third line contains the product of the two numbers.
 
 '''
+
+#dani
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+    print(a+b, a-b, a*b, sep="\n")
