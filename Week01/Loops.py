@@ -14,4 +14,9 @@ Print n lines, one corresponding to each .
 source: https://www.hackerrank.com/challenges/python-loops/problem
 
 '''
+#dani
+if __name__ == '__main__':
+    n = int(input())
+    for i in range(n):
+        print(i*i)
 
