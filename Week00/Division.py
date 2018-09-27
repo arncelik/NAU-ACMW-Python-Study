@@ -4,5 +4,5 @@ Read two integers and print two lines. The first line should contain integer div
 
 You don't need to perform any rounding or formatting operations.
 
-source: HackerRank
+source: https://www.hackerrank.com/challenges/python-division
 '''
