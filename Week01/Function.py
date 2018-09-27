@@ -8,4 +8,8 @@ Input Format
 The first line contains an integer
 
 source: https://www.hackerrank.com/challenges/python-print
+
+Sample Solution:
+print(*range(1, int(input())+1), sep='')
+
 '''
