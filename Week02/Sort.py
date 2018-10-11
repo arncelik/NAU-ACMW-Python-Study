@@ -15,3 +15,19 @@ while(i<n):
     i+=1
 print(max(arr))
 '''
+'''
+ELENA 
+
+list=[]
+count=0
+num=int(input("how many players: "))
+while count<num:
+  score=int(input("What is your score: "))
+
+  list.append(score)
+  count=count+1
+
+list.sort()
+print("The winner is the one with ", list[-1], "points")
+
+'''
