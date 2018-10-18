@@ -1,5 +1,5 @@
 # THIS WEEK
-###Basic Data Types
+### Basic Data Types
 * [Find the Runner-Up!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)
 * [Nested List](https://www.hackerrank.com/challenges/nested-list/problem)
 * [Finding the Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)
