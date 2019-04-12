@@ -15,8 +15,8 @@ while(i<n):
     i+=1
 print(max(arr))
 '''
-'''
-ELENA 
+
+# ELENA 
 
 list=[]
 count=0
@@ -30,4 +30,3 @@ while count<num:
 list.sort()
 print("The winner is the one with ", list[-1], "points")
 
-'''
